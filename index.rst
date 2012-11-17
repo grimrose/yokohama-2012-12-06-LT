@@ -1,22 +1,19 @@
-.. LT documentation master file, created by
-   sphinx-quickstart on Sat Nov 17 15:32:27 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to LT's documentation!
-==============================
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
+アジャイルサムライ横浜道場に参加してきました
+===============================================
 
 
+Who Are You ?
+------------------------
 
-Indices and tables
-==================
+* twitter: @grimrose
+* 参加レポートはこちら。 
+* `<http://grimrose.blogspot.jp/search/label/横浜道場>`_
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
+.. TODO:: 忘年会LT
+
+
+At Last
+--------------------------------
+
+ご清聴ありがとうございました!
