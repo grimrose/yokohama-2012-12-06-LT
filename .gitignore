@@ -1,1 +1,6 @@
 _build/
+conf.py
+make.bat
+Makefile
+object.inv
+
